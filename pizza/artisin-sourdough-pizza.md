@@ -10,7 +10,7 @@ From Art Is In's menu:
 
 ### Dough
 
-By weight: 
+By weight:
 
 - 94% Bread flour
 - 6% Whole wheat flour
@@ -66,6 +66,8 @@ To make two, 330g portions of dough for two ~14" pizzas:
 - 8-12oz by volume fresh Basil Leaves
 - 12-16 oz by volume of fresh Arugula
 - Salt and Pepper to taste
+
+**Instructions:**
 
 1. Combine ingredients into the bowl of a food processor.
 2. Blend until smooth, scraping down the sides of the food processor as needed. Add more olive oil to adjust the consistency and salt and pepper to taste.
