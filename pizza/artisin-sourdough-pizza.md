@@ -8,7 +8,7 @@ From Art Is In's menu:
 > Mini hand rolled meatballs, overnight garlic tomato sauce, wholemilk mozzarella, topped withspaghetti, Reggianocheese, fresh chilis, homemade basil lemon pesto(\*walnuts), basil, parmesan sesame crust
 
 
-*Dough*
+### Dough
 
 By weight: 
 
@@ -28,7 +28,7 @@ To make two, 330g portions of dough for two ~14" pizzas:
 - 11g Salt
 - 3g Instant / active dry yeast
 
-Instructions:
+**Instructions:**
 
 1. Combine all ingredients into the bowl of stand mixer if using, otherwise combine all ingredients in a big bowl.
 2. Using the dough hook, mix and knead the dough for 4-5 minutes until a smooth dough forms. If mixing by hand, mix the ingredients together well and then dump out onto a surface and knead the dough for roughly 10 minutes until the dough is elastic and smooth. It should stretch without tearing.
@@ -43,19 +43,19 @@ Instructions:
 11. Let the dough rest for another 1 - 2 hours until you are ready to bake them.
 
 
-*Pizza Sauce*
+### Pizza Sauce
 
 - 1tsp fresh or dry thyme
 - 1/2 of a 28oz Can San Marzano tomatoes, blended smooth in a blender
 - 4 Garlic Cloves
 
-Instructions:
+**Instructions:**
 
 1. Crush your garlic cloves and discard the paper skin. No need to chop the garlic further
 2. Combine all ingredients and either bake in an oven safe container at 350º or simmer on your stovetop for 30-45 minutes.
 
 
-*Pesto Sauce*
+### Pesto Sauce
 
 - 4oz Olive Oil
 - 2 Garlic Cloves
@@ -70,7 +70,7 @@ Instructions:
 1. Combine ingredients into the bowl of a food processor.
 2. Blend until smooth, scraping down the sides of the food processor as needed. Add more olive oil to adjust the consistency and salt and pepper to taste.
 
-*Meatballs*
+### Meatballs
 
 - 1lb ground chuck
 - 4oz Breadcrumbs
@@ -85,7 +85,7 @@ Instructions:
 
 **Note**. The recipe above makes enough meatballs for ~3 pizzas but it's hard to scale to smaller than a pound of meat and one egg.
 
-Instructions:
+**Instructions:**
 
 1. Combine all ingredients into a large bowl.
 2. Mix ingredients well and add enough heavy cream to hydrate the breadcrumbs and bind the mixture together.
@@ -93,7 +93,7 @@ Instructions:
 4. Place in the fridge until ready to use.
 
 
-## Instructions
+## Pizza Instructions
 
 If you don't have a sourdough starter already, follow the instructions in the beginning of [this sourdough bread recipe video](https://www.youtube.com/watch?v=2FVfJTGpXnU). You'll want a well fed, active starter for this recipe to get the right flavor and rise. The addition of a small percentage of bakers yeast will provide a bit more gas production for nice blisters in the crust. It's totally possible to do this recipe without the commercial yeast, just make sure your starter is in great health and be gentle during your shaping.
 
