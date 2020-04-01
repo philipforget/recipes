@@ -94,6 +94,13 @@ To make two, 330g portions of dough for two ~14" pizzas:
 3. Form the mixture into ~3/4" meatballs. Not too big since they will need to cook quickly on the pizza itself.
 4. Place in the fridge until ready to use.
 
+### Other Ingredients Needed
+
+- 16oz low moisture, whole milk mozzarella
+- Sesame seeds for the crust
+- Fresh Basil for garnish
+- Chile de Árbol, thinly sliced for garnish
+
 
 ## Pizza Instructions
 
