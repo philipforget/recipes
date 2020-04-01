@@ -48,11 +48,28 @@ To make two, 330g portions of dough for two ~14" pizzas:
 - 1tsp fresh or dry thyme
 - 1/2 of a 28oz Can San Marzano tomatoes, blended smooth in a blender
 - 4 Garlic Cloves
+- 1tsp salt (adjust to taste), pepper
 
 **Instructions:**
 
 1. Crush your garlic cloves and discard the paper skin. No need to chop the garlic further
 2. Combine all ingredients and either bake in an oven safe container at 350º or simmer on your stovetop for 30-45 minutes.
+
+
+### Pasta Sauce
+
+This is a very simple and standard recipe scaled down to use the other half of the can of tomatoes from the pizza sauce recipe above.
+
+
+- 1 small onion, skin removed, cut in half
+- 1/2 of a 28oz Can San Marzano tomatoes, blended smooth in a blender
+- 2Tbsp butter
+- 1tsp salt (adjust to taste)
+
+**Instructions:**
+
+1. Combine ingredients in a sauce pan and cover with a lid
+2. Bring to a simmer for 1 hour
 
 
 ### Pesto Sauce
@@ -127,3 +144,9 @@ The order of operations is roughly:
 16. Slice your pizza into strips!
 17. Dollop on pesto sauce where you please, grate more parmigiano over the crust.
 18. Transfer your spaghetti to the center of the pizza and garnish with basil, fresh cracked pepper, thin slices of chile de árbol, and more parmigiano.
+
+
+## Logs
+
+
+02/21/2020 - Made the recipe exactly as above. On the second pie I used parchment paper to make it easier to get the pie in and out of oven. I also baked it for 5 minutes initially and then another 2 with cheese which yielded a much better crust. The long bake time lead to a very crispy, perfectly blistered crust. Next time I think I would try using an even lower moisture mozzarella to get a bit more browning from the cheese.
